@@ -1,0 +1,75 @@
+\documentclass[11pt, twoside]{book}
+\usepackage[right= 2 cm,top=3 cm,bottom= 3 cm]{geometry}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% add path of figures
+\usepackage{graphicx,color}
+\graphicspath{ {figuras/} }
+
+\usepackage[spanish,active acute, es-tabla]{babel}
+\usepackage[numbered]{bookmark}
+\usepackage[final]{pdfpages}
+
+\usepackage{apacite}
+\bibliographystyle{apacite}
+
+\usepackage{fancyhdr}
+\fancyhf{}
+\cfoot{\thepage}
+\pagestyle{plain}
+
+
+%\newlength{\bibitemsep}\setlength{\bibitemsep}{.2\baselineskip plus .05\baselineskip minus .05\baselineskip}
+\newlength{\bibparskip}\setlength{\bibparskip}{11pt}
+\let\oldthebibliography\thebibliography
+\renewcommand\thebibliography[1]{%
+  \oldthebibliography{#1}%
+  \setlength{\parskip}{\bibitemsep}%
+  \setlength{\itemsep}{\bibparskip}%
+}
+
+%macros 
+\input{002-Macros-Macros}
+%document
+\begin{document}
+
+\frontmatter
+%%%%%add the first page .pdf%%%%%%%%%%%%%%
+
+%\includepdf[pages=-]{003-Caratula-Caratula.pdf}
+%\input{004-Dedicatoria-Dedicatoria}
+%\newpage
+%\clearpage\null
+%\newpage
+%\input{005-Agradecimientos-Agradecimientos}
+%\newpage
+%\clearpage\null
+%\newpage
+%\input{006-FichaResumen-FichaResumen}
+%\input{007-Abreviaturas-Abreviaturas} %en constante avance
+%\newpage
+%\clearpage\null
+%\newpage
+\renewcommand*{\contentsname}{Tabla de Contenido}
+\tableofcontents
+\renewcommand*{\listtablename}{Lista de tablas}
+\listoftables\addcontentsline{toc}{chapter}{Lista de tablas}
+\newpage
+\renewcommand*{\listfigurename}{Lista de figuras}
+\listoffigures\addcontentsline{toc}{chapter}{Lista de figuras}
+
+\setcounter{comm}{0}   %
+% works to comment something latex
+\mainmatter
+\input{008-Cap01-Introduccion} 
+\input{009-Cap02-Sistemas}
+\input{010-Cap03-Interfaces} 
+\input{011-Cap04-Adaptacion} 
+%\newpage
+%\clearpage\null
+%\newpage
+\addcontentsline{toc}{chapter}{Bibliograf'ia}
+\chapter*{Bibliograf'ia}
+\bibliography{013-Bibliografia-Bibliografia}
+\end{document}

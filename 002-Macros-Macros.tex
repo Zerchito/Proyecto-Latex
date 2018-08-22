@@ -1,0 +1,27 @@
+\usepackage{fancybox}
+
+% Abreviaciones
+\newcommand{\umss}[0]{Universidad Mayor de San Sim\'{o}n}
+\newcommand{\fcyt}[0]{Facultad de Ciencias y Tecnolog\'{i}a}
+
+\newcommand{\TITULO}[0]{SISTEMA COLABORATIVO PARA EL APOYO EN EL DISE\~NO DE INTERFACES}
+\newcommand{\sergio}[0]{Sergio Flores Ledezma}
+\newcommand{\lic}[0]{Tutor: Maria Leticia Blanco Coca}
+
+% Definici'on de comandos para formato
+
+\newcommand{\comentarios}[1]{}
+\newcommand{\concepto}[1]{\emph{#1}} 
+\newcommand{\tips}[1]{\comentarios{#1}}
+% hay que poner en el indice los conceptos
+
+
+\newcommand{\linea}{\noindent \rule{12cm}{0.5mm}}
+
+% Comentarios y notas
+\newcounter{comm}
+\newcommand{\parrafo}[2]{%
+  \ifthenelse{\value{comm}>0}%
+   {#1: \emph{#2}}%
+   {}%
+}

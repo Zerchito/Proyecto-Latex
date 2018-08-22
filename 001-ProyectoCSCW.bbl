@@ -1,0 +1,205 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Brown%
+, Cashman%
+, Malone%
+\BCBL {}\ \BBA {} Greif%
+}{%
+Brown%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1985}}%
+}]{%
+brown1985interfaces}
+\APACinsertmetastar {%
+brown1985interfaces}%
+\begin{APACrefauthors}%
+Brown, J\BPBI S.%
+, Cashman, P\BPBI M.%
+, Malone, T.%
+\BCBL {}\ \BBA {} Greif, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1985}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Interfaces in organizations (panel session): supporting
+  group work} {Interfaces in organizations (panel session): supporting group
+  work}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {ACM SIGCHI Bulletin} {Acm sigchi bulletin}\ (\BVOL~16,
+  \BPG~65).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+de Souza%
+, Redmiles%
+, Cheng%
+, Millen%
+\BCBL {}\ \BBA {} Patterson%
+}{%
+de Souza%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+de2004sometimes}
+\APACinsertmetastar {%
+de2004sometimes}%
+\begin{APACrefauthors}%
+de Souza, C\BPBI R.%
+, Redmiles, D.%
+, Cheng, L\BHBI T.%
+, Millen, D.%
+\BCBL {}\ \BBA {} Patterson, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sometimes you need to see through walls: a field study
+  of application programming interfaces} {Sometimes you need to see through
+  walls: a field study of application programming interfaces}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2004 ACM conference on Computer
+  supported cooperative work} {Proceedings of the 2004 acm conference on
+  computer supported cooperative work}\ (\BPGS\ 63--71).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ellis%
+, Gibbs%
+\BCBL {}\ \BBA {} Rein%
+}{%
+Ellis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1991}}%
+}]{%
+ellis1991groupware}
+\APACinsertmetastar {%
+ellis1991groupware}%
+\begin{APACrefauthors}%
+Ellis, C\BPBI A.%
+, Gibbs, S\BPBI J.%
+\BCBL {}\ \BBA {} Rein, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Groupware: some issues and experiences} {Groupware: some
+  issues and experiences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the ACM}{34}{1}{39--58}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Evolus%
+}{%
+Evolus%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+pencil2010}
+\APACinsertmetastar {%
+pencil2010}%
+\begin{APACrefauthors}%
+Evolus.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pencil the Open Source GUI Prototyping tool} {Pencil the
+  open source gui prototyping tool}.{\BBCQ}.
+\newblock
+\APACrefnote{http://pencil.evolus.vn/en-US/Home.aspx en 7 mayo 2012}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garrido%
+, Gea%
+, Gutierrez%
+\BCBL {}\ \BBA {} Padilla%
+}{%
+Garrido%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2000}}%
+}]{%
+garrido2000designing}
+\APACinsertmetastar {%
+garrido2000designing}%
+\begin{APACrefauthors}%
+Garrido, J.%
+, Gea, M.%
+, Gutierrez, F.%
+\BCBL {}\ \BBA {} Padilla, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Designing Co-operative Systems for Human Collaboration}
+  {Designing co-operative systems for human collaboration}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Designing Cooperative Systems: The Use of Theories and
+  Models: Proceedings of the 5th International Conference on the Design of
+  Cooperative Systems (COOP'2000)} {Designing cooperative systems: The use of
+  theories and models: Proceedings of the 5th international conference on the
+  design of cooperative systems (coop'2000)}\ (\BVOL~58, \BPG~399).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gutwin%
+, Greenberg%
+\BCBL {}\ \BBA {} Roseman%
+}{%
+Gutwin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1996}}%
+}]{%
+gutwin1996workspace}
+\APACinsertmetastar {%
+gutwin1996workspace}%
+\begin{APACrefauthors}%
+Gutwin, C.%
+, Greenberg, S.%
+\BCBL {}\ \BBA {} Roseman, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Workspace awareness in real-time distributed groupware:
+  Framework, widgets, and evaluation} {Workspace awareness in real-time
+  distributed groupware: Framework, widgets, and evaluation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {People and Computers XI} {People and computers xi}\
+  (\BPGS\ 281--298).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wilson%
+}{%
+Wilson%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+wilson1991computer}
+\APACinsertmetastar {%
+wilson1991computer}%
+\begin{APACrefauthors}%
+Wilson, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {Computer supported cooperative work:: An introduction}
+  {Computer supported cooperative work:: An introduction}.
+\newblock
+\APACaddressPublisher{}{Springer Science \& Business Media}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,141 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.27)  3 MAY 2018 21:22
+entering extended mode
+**./004-Dedicatoria-Dedicatoria.tex
+(004-Dedicatoria-Dedicatoria.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+! Undefined control sequence.
+<argument> {\large 
+                   Dedicatoria}
+l.6 \centerline{{\large Dedicatoria}}
+                                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \begin{flushright}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--8
+[] 
+ []
+
+
+Overfull \hbox (20.3276pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/m/it/10 Ded-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (19.42209pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/m/it/10 cado
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (11.24438pt too wide) in paragraph at lines 14--15
+ []\OT1/cmr/m/it/10 mi
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 fa-
+ []
+
+
+Overfull \hbox (21.97766pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 milia
+ []
+
+
+Overfull \hbox (4.85551pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 y
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 to-
+ []
+
+
+Overfull \hbox (14.31104pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 dos
+ []
+
+
+Overfull \hbox (11.7555pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 los
+ []
+
+
+Overfull \hbox (14.56656pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 que
+ []
+
+
+Overfull \hbox (36.79968pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 creyeron
+ []
+
+
+Overfull \hbox (10.22215pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 en
+ []
+
+
+Overfull \hbox (17.37769pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 m'i.
+ []
+
+)
+! Emergency stop.
+<*> ./004-Dedicatoria-Dedicatoria.tex
+                                     
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 11 strings out of 493305
+ 285 string characters out of 3138856
+ 53825 words of memory out of 3000000
+ 3661 multiletter control sequences out of 15000+200000
+ 3986 words of font info for 15 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,1n,10p,118b,108s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
