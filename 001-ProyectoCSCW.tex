@@ -1,8 +1,13 @@
-\documentclass[11pt, twoside]{book}
-\usepackage[right= 2 cm,top=3 cm,bottom= 3 cm]{geometry}
+\documentclass[11pt, twoside, letterpaper]{book}
+\usepackage[left= 3 cm, right= 2 cm, top= 2 cm,bottom= 2 cm]{geometry}
+\usepackage[spanish,active acute, es-tabla]{babel}
 \usepackage{helvet}
+\usepackage{sectsty}
+\sectionfont{\MakeUppercase}
+\subsectionfont{\MakeUppercase}
+\chapterfont{\MakeUppercase}
+\usepackage{multirow}
 \renewcommand{\familydefault}{\sfdefault}
-
 % add path of figures
 \usepackage{graphicx,color}
 \graphicspath{ {figuras/} }
@@ -37,20 +42,20 @@
 \frontmatter
 %%%%%add the first page .pdf%%%%%%%%%%%%%%
 
-%\includepdf[pages=-]{003-Caratula-Caratula.pdf}
-%\input{004-Dedicatoria-Dedicatoria}
-%\newpage
-%\clearpage\null
-%\newpage
-%\input{005-Agradecimientos-Agradecimientos}
-%\newpage
-%\clearpage\null
-%\newpage
-%\input{006-FichaResumen-FichaResumen}
-%\input{007-Abreviaturas-Abreviaturas} %en constante avance
-%\newpage
-%\clearpage\null
-%\newpage
+\includepdf[pages=-]{003-Caratula-Caratula.pdf}
+\input{004-Dedicatoria-Dedicatoria}
+\newpage
+\clearpage\null
+\newpage
+\input{005-Agradecimientos-Agradecimientos}
+\newpage
+\clearpage\null
+\newpage
+\input{006-FichaResumen-FichaResumen}
+\input{007-Abreviaturas-Abreviaturas} %en constante avance
+\newpage
+\clearpage\null
+\newpage
 \renewcommand*{\contentsname}{Tabla de Contenido}
 \tableofcontents
 \renewcommand*{\listtablename}{Lista de tablas}
@@ -59,16 +64,14 @@
 \renewcommand*{\listfigurename}{Lista de figuras}
 \listoffigures\addcontentsline{toc}{chapter}{Lista de figuras}
 
-\setcounter{comm}{0}   %
-% works to comment something latex
+\setcounter{comm}{0}
+
 \mainmatter
 \input{008-Cap01-Introduccion} 
 \input{009-Cap02-Sistemas}
 \input{010-Cap03-Interfaces} 
 \input{011-Cap04-Adaptacion} 
-%\newpage
-%\clearpage\null
-%\newpage
+
 \addcontentsline{toc}{chapter}{Bibliograf'ia}
 \chapter*{Bibliograf'ia}
 \bibliography{013-Bibliografia-Bibliografia}

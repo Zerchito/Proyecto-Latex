@@ -149,6 +149,92 @@ Garrido, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Gea%
+, Guti{\'e}rrez%
+, Garrido%
+\BCBL {}\ \BBA {} Ca{\~n}as%
+}{%
+Gea%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2002}}%
+}]{%
+gea2002amenities}
+\APACinsertmetastar {%
+gea2002amenities}%
+\begin{APACrefauthors}%
+Gea, M.%
+, Guti{\'e}rrez, F.%
+, Garrido, J.%
+\BCBL {}\ \BBA {} Ca{\~n}as, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {AMENITIES: Metodologia de modelado de sistemas
+  cooperativos} {Amenities: Metodologia de modelado de sistemas
+  cooperativos}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Workshop de Investigaci{\'o}n sobre nuevos paradigmas de
+  interacci{\'o}n en entornos colaborativos aplicados a la gesti{\'o}n y
+  difusi{\'o}n del Patrimonio cultural.} {Workshop de investigaci{\'o}n sobre
+  nuevos paradigmas de interacci{\'o}n en entornos colaborativos aplicados a la
+  gesti{\'o}n y difusi{\'o}n del patrimonio cultural.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Grudin%
+}{%
+Grudin%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+grudin1994groupware}
+\APACinsertmetastar {%
+grudin1994groupware}%
+\begin{APACrefauthors}%
+Grudin, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Groupware and social dynamics: Eight challenges for
+  developers} {Groupware and social dynamics: Eight challenges for
+  developers}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications of the ACM}{37}{1}{92--105}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gutwin%
+\ \BBA {} Greenberg%
+}{%
+Gutwin%
+\ \BBA {} Greenberg%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+gutwin2002descriptive}
+\APACinsertmetastar {%
+gutwin2002descriptive}%
+\begin{APACrefauthors}%
+Gutwin, C.%
+\BCBT {}\ \BBA {} Greenberg, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A descriptive framework of workspace awareness for
+  real-time groupware} {A descriptive framework of workspace awareness for
+  real-time groupware}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computer Supported Cooperative Work
+  (CSCW)}{11}{3-4}{411--446}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Gutwin%
 , Greenberg%
 \BCBL {}\ \BBA {} Roseman%
@@ -180,6 +266,113 @@ Gutwin, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Lauesen%
+}{%
+Lauesen%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+lauesen2005user}
+\APACinsertmetastar {%
+lauesen2005user}%
+\begin{APACrefauthors}%
+Lauesen, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {User interface design: a software engineering perspective}
+  {User interface design: a software engineering perspective}.
+\newblock
+\APACaddressPublisher{}{Pearson Education}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lauwers%
+, Joseph%
+, Lantz%
+\BCBL {}\ \BBA {} Romanow%
+}{%
+Lauwers%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1990}}%
+}]{%
+lauwers1990replicated}
+\APACinsertmetastar {%
+lauwers1990replicated}%
+\begin{APACrefauthors}%
+Lauwers, J\BPBI C.%
+, Joseph, T\BPBI A.%
+, Lantz, K\BPBI A.%
+\BCBL {}\ \BBA {} Romanow, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Replicated architectures for shared window systems: A
+  critique} {Replicated architectures for shared window systems: A
+  critique}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM SIGOIS Bulletin}{11}{2-3}{249--260}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Paterno%
+}{%
+Paterno%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+paterno2012model}
+\APACinsertmetastar {%
+paterno2012model}%
+\begin{APACrefauthors}%
+Paterno, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Model-based design and evaluation of interactive applications}
+  {Model-based design and evaluation of interactive applications}.
+\newblock
+\APACaddressPublisher{}{Springer Science \& Business Media}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Van~Welie%
+, Van~der Veer%
+\BCBL {}\ \BBA {} Eli{\"e}ns%
+}{%
+Van~Welie%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+van1998ontology}
+\APACinsertmetastar {%
+van1998ontology}%
+\begin{APACrefauthors}%
+Van~Welie, M.%
+, Van~der Veer, G\BPBI C.%
+\BCBL {}\ \BBA {} Eli{\"e}ns, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An ontology for task world models} {An ontology for task
+  world models}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Design, Specification and Verification of Interactive
+  Systems’ 98} {Design, specification and verification of interactive
+  systems’ 98}\ (\BPGS\ 57--70).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Wilson%
 }{%
 Wilson%
@@ -200,6 +393,30 @@ Wilson, P.%
   {Computer supported cooperative work:: An introduction}.
 \newblock
 \APACaddressPublisher{}{Springer Science \& Business Media}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xia%
+}{%
+Xia%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+xia2006leveraging}
+\APACinsertmetastar {%
+xia2006leveraging}%
+\begin{APACrefauthors}%
+Xia, Q.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {Leveraging Single-User Applications for Multi-User
+  Collaboration} {Leveraging single-user applications for multi-user
+  collaboration}.
+\newblock
+\APACaddressPublisher{}{Griffith University}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
